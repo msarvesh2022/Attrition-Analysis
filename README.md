@@ -26,7 +26,7 @@ A suitable machine learning algorithm such as logistic regression random forest 
 ### 3 Web Application Development
 The web application is developed using Flask The app provides a form for users to enter customer details and submit them for prediction The backend processes the input data applies the same preprocessing steps as during training and uses the trained model to predict churn
 
-###4 User Interface and Experience
+### 4 User Interface and Experience
 The frontend is designed with HTML and CSS to ensure a clean and intuitive user experience The application includes an information page that explains each input feature to help users understand the data being entered
 ### 5 Deployment
 The completed application is prepared for deployment on Google Cloud Platform using App Engine The necessary configuration files such as requirements.txt and app.yaml are created The app is deployed to the cloud making it accessible to users via a web browser
