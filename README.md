@@ -27,4 +27,6 @@ The dataset contains customer-level information such as demographics, account ba
 
 ## Goal
 - Identify the top factors driving churn.  
-- Buil
+- Build visualizations and predictive models to analyze churn behavior.  
+- Provide actionable insights for improving customer retention.  
+
