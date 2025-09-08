@@ -23,10 +23,27 @@ The dataset contains customer-level information such as demographics, account ba
 - **Complain**: Whether the customer raised complaints (1 = Yes, 0 = No).  
 - **Satisfaction Score**: Rating of customer satisfaction (scale of 1–5).  
 - **Card Type**: Type of credit card owned (DIAMOND, PLATINUM, etc.).  
-- **Point Earned**: Loyalty/reward points earned by the customer.  
+- **Point Earned**: Loyalty/reward points earned by the customer.
+
+## Insights through Visualization
+
+![](https://github.com/msarvesh2022/Customer-Churn-Prediction/blob/main/image_sc/bn-1.png)
+
+![](https://github.com/msarvesh2022/Customer-Churn-Prediction/blob/main/image_sc/bn-2.png)
+
+
+![](https://github.com/msarvesh2022/Customer-Churn-Prediction/blob/main/image_sc/bn-3.png)
+
+![](https://github.com/msarvesh2022/Customer-Churn-Prediction/blob/main/image_sc/bn-4.png)
+
+![](https://github.com/msarvesh2022/Customer-Churn-Prediction/blob/main/image_sc/bn5.png)
+
+
+
 
 ## Goal
 - Identify the top factors driving churn.  
 - Build visualizations and predictive models to analyze churn behavior.  
 - Provide actionable insights for improving customer retention.  
+
 
