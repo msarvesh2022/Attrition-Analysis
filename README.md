@@ -43,9 +43,26 @@ The dataset contains customer-level information such as demographics, account ba
 
 ![](https://github.com/msarvesh2022/Customer-Churn-Prediction/blob/main/image_sc/bn-1.png)
 
+### Attrition Rate vs Balance in the account
+- This Shows attrition rate is lower for lower balance but after the spending years and transaction bank is loosing their high value customers so there could be service problem
+
+![](https://github.com/msarvesh2022/Customer-Churn-Prediction/blob/main/image_sc/bn-7.png)
+
+
+### How age is affectiing the customer behaviour 
+
+- As age increases, the attrition rate also rises.
+- The critical age is around 45, where the rates of attrition and retention are the same.
+- After the age of 45, the bank loses customers significantly.
+
+![](https://github.com/msarvesh2022/Customer-Churn-Prediction/blob/main/image_sc/bn-7.png)
+
+
 ### Correlation of customer churn rate with their age
 
 ![](https://github.com/msarvesh2022/Customer-Churn-Prediction/blob/main/image_sc/bn-2.png)
+
+
 
 ### Here We added the comparison of retain rate.
 
@@ -65,6 +82,7 @@ The dataset contains customer-level information such as demographics, account ba
 - Identify the top factors driving churn.  
 - Build visualizations and predictive models to analyze churn behavior.  
 - Provide actionable insights for improving customer retention.  
+
 
 
 
