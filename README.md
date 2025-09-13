@@ -12,10 +12,7 @@ Summary -
 - However, the average age in the dataset is 37.
 - The churn rate is 8% higher among females compared to males. This behavior is consistent across demographics.
 - Germany has the highest percentage of customer attrition at around 32%, meaning the bank loses roughly one out of every three customers, which is a very high number.
-- 
-![](https://github.com/msarvesh2022/Customer-Churn-Prediction/blob/main/image_sc/bn-7.png)
-
-![](https://github.com/msarvesh2022/Customer-Churn-Prediction/blob/main/image_sc/bn-6.png)
+  
 ## Dataset Overview
 The dataset contains customer-level information such as demographics, account balance, banking products, and churn status.
 
@@ -82,6 +79,7 @@ The dataset contains customer-level information such as demographics, account ba
 - Identify the top factors driving churn.  
 - Build visualizations and predictive models to analyze churn behavior.  
 - Provide actionable insights for improving customer retention.  
+
 
 
 
