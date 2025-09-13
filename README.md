@@ -10,6 +10,7 @@ Summary -
 
 - As customers reach the age of 45, they mostly decide whether to continue with the bank’s services or leave.
 - However, the average age in the dataset is 37.
+- Bank is not loosing musch customer in the intial stage, most customer left left the bank after some year of experience, Bank should once look down into their customer services and complain
 - The churn rate is 8% higher among females compared to males. This behavior is consistent across demographics.
 - Germany has the highest percentage of customer attrition at around 32%, meaning the bank loses roughly one out of every three customers, which is a very high number.
   
@@ -76,6 +77,7 @@ The dataset contains customer-level information such as demographics, account ba
 - Identify the top factors driving churn.  
 - Build visualizations and predictive models to analyze churn behavior.  
 - Provide actionable insights for improving customer retention.  
+
 
 
 
