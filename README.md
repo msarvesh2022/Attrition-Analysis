@@ -1,4 +1,4 @@
-# Bank Customer Churn Analysis
+# Bank Customer Attrition Root Cause Analysis
 
 ## Core Objective
 The objective is not merely to create random and visually appealing charts under the name of insights. This project focuses on numbers that may appear small but can have a significant impact. In the finance and banking sector, revenue, customers, and transactions are vast in scale, so even a 2–3% error in prediction or insight can lead to major consequences. This project primarily explores customer behavior across different geographical locations, analyzes key factors contributing to customer attrition, and identifies ways to improve customer experience. It also predicts borderline customers to help prevent CLV oss, which we calculated in our Excel analysis
@@ -7,7 +7,7 @@ So The objective of this project is to analyze customer data from a bank to iden
 By understanding these factors, the project aims to generate insights that can help improve customer retention strategies and reduce churn.
 
 Summary - 
-
+- Datasets contains 10,000 unique records of the customer with attrition rate 20.38%.
 - As customers reach the age of 45, they mostly decide whether to continue with the bank’s services or leave.
 - However, the average age in the dataset is 37.
 - Bank is not loosing musch customer in the intial stage, most customer left left the bank after some year of experience, Bank should once look down into their customer services and complain
@@ -77,6 +77,7 @@ The dataset contains customer-level information such as demographics, account ba
 - Identify the top factors driving churn.  
 - Build visualizations and predictive models to analyze churn behavior.  
 - Provide actionable insights for improving customer retention.  
+
 
 
 
