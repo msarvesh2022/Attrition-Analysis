@@ -15,7 +15,7 @@ Summary -
 
 ## DashbOard 
 
-![](https://github.com/msarvesh2022/Attrition-Analysis/blob/main/image_sc/dashboard.png)
+![](https://github.com/msarvesh2022/Attrition-Analysis/blob/main/image_sc/churn_dashboard.png)
   
 ## Dataset Overview
 The dataset contains customer-level information such as demographics, account balance, banking products, and churn status.
@@ -80,6 +80,7 @@ The dataset contains customer-level information such as demographics, account ba
 - Identify the top factors driving churn.  
 - Build visualizations and predictive models to analyze churn behavior.  
 - Provide actionable insights for improving customer retention.  
+
 
 
 
