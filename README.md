@@ -12,6 +12,10 @@ Summary -
 - The bank is not losing many customers in the initial stage; most customers leave after several years of experience. The bank should review its customer services and address complaints.
 - The churn rate is 8% higher among females compared to males, and this behavior is consistent across demographics.
 - Germany has the highest percentage of customer attrition at around 32%, meaning the bank loses roughly one out of every three customers, which is a very high number.
+
+## DashbOard 
+
+![](https://github.com/msarvesh2022/Attrition-Analysis/blob/main/image_sc/dashboard.png)
   
 ## Dataset Overview
 The dataset contains customer-level information such as demographics, account balance, banking products, and churn status.
@@ -76,6 +80,7 @@ The dataset contains customer-level information such as demographics, account ba
 - Identify the top factors driving churn.  
 - Build visualizations and predictive models to analyze churn behavior.  
 - Provide actionable insights for improving customer retention.  
+
 
 
 
